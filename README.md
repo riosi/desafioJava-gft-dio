@@ -4,4 +4,4 @@ Nesse desafio criei a abstração de um Banco que possui conta corrente, conta p
 
 Também foi criada uma Exceção para tratar erros de saldo insuficiente.
 
-Na classe `app` foram feitos vários testes com os métodos implementados.
+Na classe `App.java` foram feitos vários testes com os métodos implementados.
